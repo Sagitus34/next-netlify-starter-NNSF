@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Northfield is a great place to ski!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Make more changes by editing <code>pages/index.js</code>
         </p>
       </main>
 
